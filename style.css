@@ -34,13 +34,13 @@ h3{
 }
 .top_cload{
   position: absolute;
-  right: 230px;
-  margin-top: 10%;
+  right: 15%;
+  margin-top: 160px;
 }
 .botton_cload{
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 20%;
+  bottom: 40%;
 }
 .mount{
   margin-top: 15%;
