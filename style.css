@@ -35,12 +35,32 @@ h3{
 .top_cload{
   position: absolute;
   right: 15%;
-  margin-top: 160px;
+  margin-top: 130px;
 }
 .botton_cload{
   position: absolute;
   left: 20%;
-  bottom: 40%;
+  margin-top: 40px;
+}
+.flagPL{
+  position: absolute;
+  margin-top: 0;
+  top:0;
+  right: 91%;
+}
+.flagUK{
+  position: absolute;
+  margin-top: 0;
+  top:0;
+  right: 95%;
+}
+.flagPL:hover
+{
+  width: 40px;
+}
+.flagUK:hover
+{
+  width: 40px;
 }
 .mount{
   margin-top: 15%;
