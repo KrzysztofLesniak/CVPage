@@ -43,16 +43,16 @@ h3{
   margin-top: 40px;
 }
 .flagPL{
-  position: absolute;
   margin-top: 0;
+  position: absolute;
+  right: 8%;
   top:0;
-  right: 91%;
 }
 .flagUK{
-  position: absolute;
   margin-top: 0;
+  position: absolute;
+  right: 4%;
   top:0;
-  right: 95%;
 }
 .flagPL:hover
 {
